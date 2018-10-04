@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeballBot", "PokeballBot\PokeballBot.csproj", "{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Debug|x64.ActiveCfg = Debug|x64
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Debug|x64.Build.0 = Debug|x64
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Release|x64.ActiveCfg = Release|x64
+		{249C19FB-E8E0-4E65-BEA1-0C652B7AE162}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51651273-C93A-4504-90E0-A6FCE8299BB7}
+	EndGlobalSection
+EndGlobal

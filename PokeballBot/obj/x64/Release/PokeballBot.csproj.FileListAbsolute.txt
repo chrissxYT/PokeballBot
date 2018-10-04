@@ -1,0 +1,10 @@
+D:\workspace_VS\PokeballBot\PokeballBot\bin\x64\Release\PokeballBot.exe.config
+D:\workspace_VS\PokeballBot\PokeballBot\bin\x64\Release\PokeballBot.exe
+D:\workspace_VS\PokeballBot\PokeballBot\bin\x64\Release\PokeballBot.pdb
+D:\workspace_VS\PokeballBot\PokeballBot\obj\x64\Release\PokeballBot.Form1.resources
+D:\workspace_VS\PokeballBot\PokeballBot\obj\x64\Release\PokeballBot.Properties.Resources.resources
+D:\workspace_VS\PokeballBot\PokeballBot\obj\x64\Release\PokeballBot.csproj.GenerateResource.cache
+D:\workspace_VS\PokeballBot\PokeballBot\obj\x64\Release\PokeballBot.csproj.CoreCompileInputs.cache
+D:\workspace_VS\PokeballBot\PokeballBot\obj\x64\Release\PokeballBot.exe
+D:\workspace_VS\PokeballBot\PokeballBot\obj\x64\Release\PokeballBot.pdb
+D:\workspace_VS\PokeballBot\PokeballBot\obj\x64\Release\PokeballBot.csprojResolveAssemblyReference.cache
